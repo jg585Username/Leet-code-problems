@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonathanguan/RiderProjects/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
+      "projectUniqueName": "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
       "projectName": "LeetCodeProblems",
-      "projectPath": "/Users/jonathanguan/RiderProjects/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
+      "projectPath": "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
       "packagesPath": "/Users/jonathanguan/.nuget/packages/",
-      "outputPath": "/Users/jonathanguan/RiderProjects/LeetCodeProblems/LeetCodeProblems/obj/",
+      "outputPath": "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jonathanguan/.nuget/NuGet/NuGet.Config"
