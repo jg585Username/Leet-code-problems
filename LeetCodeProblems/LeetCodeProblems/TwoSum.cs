@@ -12,6 +12,6 @@ public class TwoSum
                 }
             }
         }
-        return result;
+        return result; //probably the worst solution (nested for loops)
     }
 }
