@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj": {}
+    "/Users/jonathanguan/Desktop/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj": {}
   },
   "projects": {
-    "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj": {
+    "/Users/jonathanguan/Desktop/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
+        "projectUniqueName": "/Users/jonathanguan/Desktop/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
         "projectName": "LeetCodeProblems",
-        "projectPath": "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
+        "projectPath": "/Users/jonathanguan/Desktop/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
         "packagesPath": "/Users/jonathanguan/.nuget/packages/",
-        "outputPath": "/Users/jonathanguan/Documents/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/obj/",
+        "outputPath": "/Users/jonathanguan/Desktop/GitHub/Leet-code-problems/LeetCodeProblems/LeetCodeProblems/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jonathanguan/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net9.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,9 +37,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/jonathanguan/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
